@@ -1,0 +1,8 @@
+# Render PostgreSQL Database Configuration
+HOST=dpg-d13plhggjchc73fecfa0-a.singapore-postgres.render.com
+PORT=5432
+DATABASE=expense_splitter
+USERNAME=expense_splitter_user
+PASSWORD=BNs8hZPCVF65lHC8vOvKiLj6cE0G9npH
+INTERNAL_URL=postgresql://expense_splitter_db_user:BNs8hZPCVF65lHC8vOvKiLj6cE0G9npH@dpg-d13plhggjchc73fecfa0-a/expense_splitter_db
+EXTERNAL_URL=postgresql://expense_splitter_db_user:BNs8hZPCVF65lHC8vOvKiLj6cE0G9npH@dpg-d13plhggjchc73fecfa0-a.singapore-postgres.render.com/expense_splitter_db
